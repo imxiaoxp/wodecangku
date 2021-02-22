@@ -1,0 +1,25 @@
+[{
+	"id": 1,
+	"key": "tiankingzy",
+	"name": "天空资源",
+	"api": "https://caiji.tiankongapi.com/inc/api.php",
+	"download": ""
+},{
+	"id": 2,
+	"key": "iixxzy",
+	"name": "iix资源",
+	"api": "http://api.iixxzyapi.com/inc/ldg_sea.php",
+	"download": ""
+},{
+	"id": 3,
+	"key": "huanyazy",
+	"name": "环亚资源",
+	"api": "http://wmcj8.com/inc/sapi.php",
+	"download": ""
+},{
+	"id": 4,
+	"key": "bttcj",
+	"name": "博天堂资源",
+	"api": "http://bttcj.com/inc/sapi.php",
+	"download": ""
+}]
